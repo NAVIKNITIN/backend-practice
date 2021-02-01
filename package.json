@@ -1,0 +1,23 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "creating REST Api Using Nodejs and Expressjs And mongo db",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAVIKNITIN/backend-practice.git"
+  },
+  "author": "nitin navik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NAVIKNITIN/backend-practice/issues"
+  },
+  "homepage": "https://github.com/NAVIKNITIN/backend-practice#readme"
+}
